@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ConvexNavigationBar">
+        <attr name="convexHeight" format="dimension" />
+        <attr name="convexWidth" format="dimension" />
+        <attr name="convexIndex" format="integer" />
+        <attr name="contentHeight" format="dimension" />
+        <attr name="convexPaddingLeft" format="dimension" />
+        <attr name="convexPaddingRight" format="dimension" />
+        <attr name="convexPaddingTop" format="dimension" />
+        <attr name="convexPaddingBottom" format="dimension" />
+        <attr name="convexPadding" format="dimension" />
+        <attr name="clickFollow" format="boolean" />
+    </declare-styleable>
+</resources>
